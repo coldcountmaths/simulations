@@ -1,4 +1,4 @@
-# All of It, Explained: the simulations
+# Cold Count: the simulations
 
 The code behind the videos. Every number said in a video comes out of one of these files.
 Run it, change it, tell me where I'm wrong.
